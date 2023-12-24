@@ -6,5 +6,24 @@ Quick view of STM32F030C8T6 based 4c Channel Motor Driver board rated at 5V and 
 
 The board measures at approximately 28mm X 43mm.
 
-<img width="433" alt="STM32 4 Channel Motor Driver 5V" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/e2e58356-df99-40ed-b503-f2b285e8e8dd">  <img width="953" alt="Motor Connections" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/8585ab62-06de-409f-9982-ed3c28404018">
+<img width="433" alt="STM32 4 Channel Motor Driver 5V" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/e2e58356-df99-40ed-b503-f2b285e8e8dd">  
+
+
+
+
+Motor Input / Output mapping to MCU:
+
+* M1+ - PA8
+* M1- - PA9
+
+* M2+ - PB7
+* M2- - PB6
+
+* M3+ - PA11
+* M3- - PA12
+
+* M4+ - PB5
+* M4- - PB4
+
+<img width="953" alt="Motor Connections" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/8585ab62-06de-409f-9982-ed3c28404018">
 

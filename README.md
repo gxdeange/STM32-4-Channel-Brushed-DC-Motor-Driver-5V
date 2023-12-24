@@ -25,7 +25,7 @@ Motor Input / Output mapping to MCU:
 * M4+ : PB5
 * M4- : PB4
 
-* LED+ : PB15
+* Yellow LED+ : PB15
 
 <img width="953" alt="Motor Connections" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/8585ab62-06de-409f-9982-ed3c28404018">
 

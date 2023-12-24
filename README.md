@@ -1,4 +1,4 @@
-# STM32-4-Channel-Driver-5V
+# STM32- 4-Channel Brushed DC Motor Drive @5V
 
 Quick view of STM32F030C8T6 based 4c Channel Motor Driver board rated at 5V and powered either via a Mini USB connector or solder pads.
 

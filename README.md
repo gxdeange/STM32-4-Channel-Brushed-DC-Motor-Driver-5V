@@ -1,6 +1,6 @@
 # STM32-4-Channel-Driver-5V
 
-Quick view of STM32F030C8T6 based 4c Channel Motor Driver board rated at 5V and powered via a Mini USB connector.
+Quick view of STM32F030C8T6 based 4c Channel Motor Driver board rated at 5V and powered either via a Mini USB connector or solder pads.
 
 8 X Logic Input and 2 X +5V pads and that can accomodate standard 2.54mm dupont header or direct soldering of wiring
 

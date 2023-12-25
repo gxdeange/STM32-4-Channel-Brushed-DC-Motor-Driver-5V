@@ -11,7 +11,7 @@ The board measures at approximately 28mm X 43mm.
 
 
 
-Motor Input / Output mapping to MCU:
+**Motor Input / Output mapping to MCU:**
 
 * M1+ : PA8
 * M1- : PA9

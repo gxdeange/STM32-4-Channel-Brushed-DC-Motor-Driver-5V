@@ -8,8 +8,9 @@ The board measures at approximately 28mm X 43mm.
 
 <img width="432" alt="STM32 4 Channel Motor Driver" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/3a9d2180-9d7f-478c-9a03-9105e6498f13">
 
+# STM32 4-Channel Brushed DC Motor Drive W/ UART @5V
 
-
+<img width="434" alt="STM32 UART" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/f6466a39-403e-4256-aa9f-e4c59c417cae">
 
 # Motor Input / Output mapping to MCU:
 

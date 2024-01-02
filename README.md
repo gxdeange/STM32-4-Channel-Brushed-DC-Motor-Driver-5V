@@ -30,3 +30,6 @@ The board measures at approximately 28mm X 43mm.
 
 <img width="953" alt="Motor Connections" src="https://github.com/gxdeange/STM32-4-Channel-Driver-5V/assets/57690555/8585ab62-06de-409f-9982-ed3c28404018">
 
+# PROGRAMMING NOTE
+
+This MCU does not use an external crystal and any code that uses the Internal RC Clock (HSI).
